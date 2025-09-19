@@ -1,5 +1,5 @@
 cask "sherlockbar" do
-  version "1.8.0"
+  version "1.8.2"
   sha256 "abb44cee44ab73d2fbb486d1760dd5aaff3f5adc1490755909bd99cf3189621e"
 
   url "https://github.com/Ap0ll02/Sherlock/releases/download/1.82/Sherlock.zip"
